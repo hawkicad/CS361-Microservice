@@ -1,0 +1,23 @@
+{
+  "name": "CS361-Microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkicad/CS361-Microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawkicad/CS361-Microservice/issues"
+  },
+  "homepage": "https://github.com/hawkicad/CS361-Microservice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

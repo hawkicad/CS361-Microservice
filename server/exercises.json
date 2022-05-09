@@ -1,0 +1,28 @@
+{   
+    "exercises" : {
+        "ex1":{
+            "name": "curls", 
+            "intensity" : "low"
+        },
+        "ex2":{
+            "name": "deadlift", 
+            "intensity" :  "high"
+        },
+        "ex3":{
+            "name": "tricepExtensions", 
+            "intensity" : "medium"
+        },
+        "ex4":{
+            "name": "benchPress", 
+            "intensity" : "high"
+        },
+        "ex5":{
+            "name": "squat", 
+            "intensity" : "high"
+        },
+        "ex6":{
+            "name": "pushUp", 
+            "intensity" : "medium"
+        }
+    }
+}
